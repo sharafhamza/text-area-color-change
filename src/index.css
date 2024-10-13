@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+textarea.red1::placeholder {
+  color: red;
+}
+textarea.blue1::placeholder {
+  color: blue;
+}
+textarea.yellow1::placeholder {
+  color: yellow;
+}
+textarea.black1::placeholder {
+  color: black;
+}
